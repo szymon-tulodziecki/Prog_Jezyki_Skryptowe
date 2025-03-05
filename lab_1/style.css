@@ -1,0 +1,92 @@
+header, nav, main, footer {
+    display: block;
+    width: 1078px;
+    margin: 0 auto; /* Dodane do wyśrodkowania */
+}
+
+body {
+    color: #ffffff;
+    background-color: #000000;
+    margin: 0px;
+    text-align: center;
+}
+
+nav {
+    background-color: #FFFFFA;
+    color: black;
+    height: 75px;
+    position: relative;
+}
+#logo img {
+    max-height: 70px;
+    float: left;
+    margin-left: 50px;
+}
+img{
+    width: 100px;
+    height: 100px;
+    marin-left: 50px;
+}
+header {
+    background-color: #0D5C63;
+    color: black;
+    height: 150px;
+}
+h1{
+    color: #ffffff;
+    font-size: 2em;
+    text-align: center;
+    padding-top: 20px;
+}
+main {
+    width: 1078px;
+    height: auto;
+    background-color: lightcyan;
+    overflow: hidden;
+}
+
+#col-left {
+    background-color: #78CDD7;
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+
+#col-center {
+    width: 878px;
+    background-color: #247B7B;
+    height: auto;
+    float: left;
+}
+
+footer {
+    background-color: #0D5C63;
+    height: 75px;
+    color: white;
+    clear: both;
+}
+
+#container {
+    position: relative;
+    margin: auto;
+    width: 1078px;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #ffffff;
+}
+table, tr, td, th {
+    border: 1px solid black;
+}
+th{
+    background-color: #0D5C63;
+}
+tr:nth-child(even) {
+    background-color: #lightcyan;
+}
+tr:nth-child(odd) {
+    background-color: #78CDD7;
+}
+
+table{
+    width: 100%;
+}
