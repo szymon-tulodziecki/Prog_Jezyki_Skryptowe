@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style_konwerter.css" />
+    <title>tu_szym0n</title>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <div class="logo">
+            <a href="index.html"><h1>Szymon Tułodziecki</h1></a>
+            <span class="reg">&reg;</span>
+        </div>
+    </header>
+    <main>
+        <h1 class="main_text">File to PDF Converter</h1>
+        <input type="file" id="fileInput" accept=".docx, .jpg, .jpeg, .png, .bmp, .gif" style="display: none;">
+        <button id="customFileInputButton" class="select">Select File</button>
+        <span id="fileName" class="file-name"></span>
+        <button id="convertButton" class="convert">Convert to PDF</button>
+        <a id="downloadLink" href="#" style="display: none;">Download PDF</a>
+    </main>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf-lib/1.17.1/pdf-lib.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/docxtemplater/3.21.1/docxtemplater.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pizzip/3.0.6/pizzip.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pizzip/3.0.6/pizzip-utils.min.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>
