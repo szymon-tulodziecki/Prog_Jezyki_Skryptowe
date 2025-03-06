@@ -13,6 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 0 20px;
 }
 
 header {
@@ -20,25 +21,10 @@ header {
     justify-content: space-between;
     align-items: center;
     margin-top: 40px;
-    width: 1621px;
+    width: 100%;
+    max-width: 1621px;
     height: 60px;
-}
-
-.logo {
-    color: #ffffff;
-    display: flex;
-    align-items: center;
-    height: 60px;
-}
-
-.logo h1 {
-    background: linear-gradient(45deg, #EB568E, #144EE3);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-    font-size: 50px;
-    font-family: Arial, Helvetica, sans-serif;
-    margin-right: 5px;
+    padding: 0 20px;
 }
 
 .reg {
@@ -94,9 +80,12 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 966px;
-    height: 370px;
+    width: 100%;
+    max-width: 966px;
+    height: auto;
     color: white;
+    padding: 0 20px;
+    margin-top: 60px;
 }
 
 main button, main a {
@@ -141,4 +130,58 @@ main h1 {
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
     margin-right: 5px;
+}
+
+.button-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.p0, .p1, .p2, .p3 {
+    width: 120px;
+    height: 60px;
+    color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.p0 {
+    background-color: #EB568E;
+    border: 1px solid #EB568E;
+}
+
+.p0:hover {
+    background-color: #C0456F;
+    box-shadow: 0 0 15px rgba(235, 86, 142, 0.8);
+    border-color: #C0456F;
+}
+
+.p1, .p2 {
+    background-color: #144EE3;
+    border: 1px solid #144EE3;
+}
+
+.p1:hover, .p2:hover {
+    background-color: #1038A7;
+    box-shadow: 0 0 15px rgba(20, 78, 227, 0.8);
+    border-color: #1038A7;
+}
+
+.p3 {
+    background-color: #FFC107;
+    border: 1px solid #FFA000;
+}
+
+.p3:hover {
+    background-color: #FFA000;
+    box-shadow: 0 0 15px rgba(255, 193, 7, 0.8);
+    border-color: #FFA000;
+}
+
+header a {
+    text-decoration: none;
+    color: #ffffff;
 }
