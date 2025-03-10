@@ -1,4 +1,6 @@
-# Programowanie Języków Skryptowych 📜
+# 21312 Szymon Tułodziecki
+
+## Programowanie Języków Skryptowych 📜
 
 To repozytorium zawiera materiały z laboratoriów z przedmiotu Programowanie Języków Skryptowych.
 
@@ -8,9 +10,9 @@ To repozytorium zawiera materiały z laboratoriów z przedmiotu Programowanie J�
 - lab_2/,
 - ...
 
-### Zawartość 📁
+## Zawartość 📁
 
-Katalogi zawierają rozwiązania i pliki do zadań z poszczególnych laboratoriów.
+Katalogi lab_* zawierają rozwiązania i pliki do zadań z poszczególnych laboratoriów, z koleii katalogii my_* własne koncepcje. 
 
 
 ## Jak korzystać 🛠️
