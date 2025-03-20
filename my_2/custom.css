@@ -1,0 +1,165 @@
+body {
+    font-family: __Readex_Pro_e803d4, __Readex_Pro_Fallback_e803d4;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+.navbar {
+    font-size: 18px; 
+}
+
+.navbar-nav .nav-link {
+    font-size: 20px;
+}
+.navbar-icons .nav-link {
+    font-size: 18px; 
+}
+
+.form-control {
+    font-size: 16px; 
+}
+
+
+.btn-outline-success {
+    font-size: 16px; 
+}
+
+.navbar-icons .nav-link:hover {
+    color: #ffffff;
+    background-color: rgba(255, 235, 205, 0.2);
+    transition: all 0.3s ease;
+}
+
+.custom-header {
+    background-color: #6a9728;
+}
+
+.form-control,
+.btn-outline-success {
+    box-shadow: none !important;
+}
+
+.form-control:hover,
+.form-control:focus,
+.btn-outline-success:hover,
+.btn-outline-success:focus {
+    box-shadow: none !important;
+}
+
+
+.custom-header .container-fluid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+}
+
+
+.log_link {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand {
+    margin-right: 15px;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+.navbar-nav .nav-link {
+    color: blanchedalmond !important;
+    padding: 5px 10px;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    background-color: rgba(255, 235, 205, 0.1);
+}
+
+form.d-flex {
+    flex: 1;
+    max-width: 400px;
+    margin: 0 15px;
+}
+
+.navbar .btn.btn-outline-success {
+    margin-left: 5px !important;
+}
+
+
+.navbar .btn-outline-success {
+    color: blanchedalmond !important;
+    border-color: blanchedalmond !important;
+}
+
+.navbar .btn-outline-success:hover {
+    color: #6a9728 !important;
+    background-color: blanchedalmond !important;
+}
+.navbar-icons {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-icons .nav-link {
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+    color: blanchedalmond;
+}
+
+.navbar-icons .nav-link i {
+    margin-left: 5px;
+}
+
+@media (max-width: 991px) {
+    .custom-header .container-fluid {
+        flex-wrap: wrap;
+    }
+    
+    .log_link {
+        width: 100%;
+        justify-content: space-between;
+        margin-bottom: 10px;
+    }
+    
+    .navbar-collapse {
+        width: 100%;
+        order: 3;
+    }
+    
+    form.d-flex {
+        order: 2;
+        width: 100%;
+        max-width: none;
+        margin: 10px 0;
+    }
+    
+    .navbar-icons {
+        order: 4;
+        width: 100%;
+        justify-content: space-around;
+        margin-top: 10px;
+    }
+    
+    .navbar-icons .nav-link {
+        margin: 0;
+    }
+}
+
+@media (max-width: 576px) {
+    .navbar-icons .nav-link span {
+        display: none;
+    }
+    
+    .navbar-icons .nav-link i {
+        font-size: 1.5em;
+        margin: 0;
+    }
+}
