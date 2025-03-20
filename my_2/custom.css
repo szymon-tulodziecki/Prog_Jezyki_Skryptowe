@@ -1,8 +1,8 @@
 body {
     font-family: __Readex_Pro_e803d4, __Readex_Pro_Fallback_e803d4;
     font-style: normal;
+    padding-top: 120px;
 }
-
 a {
     text-decoration: none;
     color: blanchedalmond;
@@ -35,8 +35,14 @@ a {
 }
 
 .custom-header {
-    background-color: #6a9728;
+        background-color: #6a9728;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1030;
 }
+    
 
 .form-control,
 .btn-outline-success {
