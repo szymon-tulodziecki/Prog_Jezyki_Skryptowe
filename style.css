@@ -156,3 +156,55 @@ header button {
     align-items: center;
     justify-content: center;
 }
+.aktualnosci {
+    width: 100%;
+    max-width: 600px; 
+    margin: 40px auto;
+    padding: 20px;
+    background-color: rgba(20, 78, 227, 0.1);
+    border-radius: 20px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+}
+
+.aktualnosci h2 {
+    font-size: 28px;
+    color: #144EE3; 
+    margin-bottom: 10px;
+}
+
+.aktualnosci h3 {
+    font-size: 20px;
+    color: #1038A7; 
+    margin-bottom: 20px;
+}
+
+.aktualnosci ul {
+    list-style-type: none; 
+    padding: 0;
+}
+
+.aktualnosci li {
+    margin-bottom: 15px;
+    display: flex; 
+    align-items: center; 
+}
+
+.aktualnosci a {
+    font-size: 18px;
+    text-decoration: none; 
+    color: #EB568E;
+    transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.aktualnosci a:hover {
+    color: #C0456F;
+    text-shadow: 0 0 10px rgba(235, 86, 142, 0.8);
+}
+
+.icon {
+    font-size: 24px; 
+    margin-right: 10px; 
+}
