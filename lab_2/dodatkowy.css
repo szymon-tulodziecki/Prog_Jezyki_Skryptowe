@@ -2,12 +2,3 @@
 .carousel-container {
     height: calc(100vh - 56px);
 }
-
-nav {
-    background-color: #6a9728;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1030;
-}
