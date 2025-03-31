@@ -4,7 +4,7 @@
 
 To repozytorium zawiera materiały z laboratoriów z przedmiotu Programowanie Języków Skryptowych.
 
-Link do GitHub Pages: [OTWÓRZ STRONĘ PROJEKTU](https://github.com/szymon-tulodziecki/Prog_Jezyki_Skryptowe/deployments/github-pages/index.html), aby zobaczyć rezultat.
+Link do GitHub Pages: [OTWÓRZ STRONĘ PROJEKTU](https://szymon-tulodziecki.github.io/Prog_Jezyki_Skryptowe/), aby zobaczyć rezultat.
 
 ## Struktura repozytorium 📂
 
