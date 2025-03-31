@@ -25,5 +25,5 @@ Katalogi lab_* zawierają rozwiązania i pliki do zadań z poszczególnych labor
    ```
    cd Prog_Jezyki_Sktyptowe/lab_1
    ```
-3. Otwórz `index.html` w przeglądarce, aby zobaczyć rezultat.
+3. Otwórz `index.html` w przeglądarce, aby zobaczyć rezultat lub przejdź do [GitHub Pages Deployment](https://github.com/szymon-tulodziecki/Prog_Jezyki_Sktyptowe/deployments/github-pages/index.html).
 4. Eksperymentuj z plikami HTML i CSS, ucząc się podstaw tworzenia stron internetowych.
