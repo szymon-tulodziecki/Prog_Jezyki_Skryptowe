@@ -46,37 +46,42 @@ function Zad_4() {
     console.log("Pętla for:", wynik);
 }
 
-function submitAnswer() {
-    const questions = [
-        ["Ile księżyców ma Ziemia?", 1],
-        ["Ile księżyców ma Saturn?", 62],
-        ["Ile księżyców ma Wenus?", 0],
-    ];
+// Move these variables outside the function so they persist between calls
+const questions = [
+    ["Ile księżyców ma Ziemia?", 1],
+    ["Ile księżyców ma Saturn?", 62],
+    ["Ile księżyców ma Wenus?", 0],
+];
+let score = 0;
+let currentQuestionIndex = 0;
 
-    let score = 0;
-    let index = 0;
-
-    const pytanie = questions[index];
-    document.getElementById("pyt").textContent = pytanie[0];
-
-    const answer = parseInt(document.getElementById("odp").value);
-    if (answer === pytanie[1]) {
-        score++;
-        alert("Prawidłowa odpowiedź!");
-    } else {
-        alert(`Błąd. Prawidłowa odpowiedź to ${pytanie[1]}`);
-    }
-
-    index++;
-    if (index < questions.length) {
-        document.getElementById("pyt").textContent = questions[index][0];
-    } else {
-        document.getElementById("q-wynik").textContent = `Twój wynik to: ${score}/${questions.length}`;
+function displayQuestion() {
+    if (currentQuestionIndex < questions.length) {
+        document.getElementById("pyt").textContent = questions[currentQuestionIndex][0];
     }
 }
 
+function submitAnswer() {
+    const answer = parseInt(document.getElementById("odp").value);
+    if (answer === questions[currentQuestionIndex][1]) {
+        score++;
+        alert("Prawidłowa odpowiedź!");
+    } else {
+        alert(`Błąd. Prawidłowa odpowiedź to ${questions[currentQuestionIndex][1]}`);
+    }
+
+    currentQuestionIndex++;
+    if (currentQuestionIndex < questions.length) {
+        document.getElementById("pyt").textContent = questions[currentQuestionIndex][0];
+    } else {
+        document.getElementById("q-wynik").textContent = `Twój wynik to: ${score}/${questions.length}`;
 window.onload = function() {
     Zad_1();
+    Zad_2();
+    Zad_3();
+    Zad_4();
+    displayQuestion(); // Display the first question on page load
+};  Zad_1();
     Zad_2();
     Zad_3();
     Zad_4();
