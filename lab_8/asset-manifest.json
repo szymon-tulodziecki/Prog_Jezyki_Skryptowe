@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prog_Jezyki_Skryptowe/lab_8/static/css/main.53b59c67.css",
+    "main.js": "/Prog_Jezyki_Skryptowe/lab_8/static/js/main.a5931008.js",
+    "static/js/453.ed3810f9.chunk.js": "/Prog_Jezyki_Skryptowe/lab_8/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Prog_Jezyki_Skryptowe/lab_8/index.html",
+    "main.53b59c67.css.map": "/Prog_Jezyki_Skryptowe/lab_8/static/css/main.53b59c67.css.map",
+    "main.a5931008.js.map": "/Prog_Jezyki_Skryptowe/lab_8/static/js/main.a5931008.js.map",
+    "453.ed3810f9.chunk.js.map": "/Prog_Jezyki_Skryptowe/lab_8/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b59c67.css",
+    "static/js/main.a5931008.js"
+  ]
+}
