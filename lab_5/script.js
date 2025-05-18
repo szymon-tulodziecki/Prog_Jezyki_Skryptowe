@@ -1,23 +1,18 @@
 function Zad_1() {
     const tablica = ["Kot", "Pies", "Kura", "Krowa", "Owca"];
-
     tablica[tablica.length - 1] = "Koń";
     tablica[5] = "Kaczka";
     tablica.push("Zebra", "Tygrys");
     tablica.unshift("Lew", "Pantera");
-
     document.getElementsByClassName("Zad_1")[0].textContent = `Drugi element to: ${tablica[1]}`;
 }
 
 function Zad_2() {
     const nowaTablica = ["Jabłko", "Gruszka", "Pomarańcza", "Banan"];
-
     let output = `<p>Pierwszy element to: <strong>${nowaTablica[0]}</strong></p>`;
     output += `<p>Ostatni element to: <strong>${nowaTablica[nowaTablica.length - 1]}</strong></p>`;
-
     nowaTablica.unshift("Winogrono");
     output += `<p>Nowy pierwszy element to: <strong>${nowaTablica[0]}</strong></p>`;
-
     document.getElementsByClassName("Zad_2")[0].innerHTML = output;
 }
 
@@ -25,6 +20,7 @@ function Zad_3() {
     const liczbaElementow = document.getElementsByTagName("*").length;
     document.getElementById("wynik").textContent = `Liczba elementów na stronie: ${liczbaElementow}`;
 }
+
 
 function Zad_4() {
     const tablica = ["Kot", "Pies", "Kura", "Krowa", "Owca"];
@@ -46,7 +42,6 @@ function Zad_4() {
     console.log("Pętla for:", wynik);
 }
 
-// Move these variables outside the function so they persist between calls
 const questions = [
     ["Ile księżyców ma Ziemia?", 1],
     ["Ile księżyców ma Saturn?", 62],
@@ -72,17 +67,20 @@ function submitAnswer() {
 
     currentQuestionIndex++;
     if (currentQuestionIndex < questions.length) {
-        document.getElementById("pyt").textContent = questions[currentQuestionIndex][0];
+        displayQuestion();
+        document.getElementById("odp").value = "";
     } else {
         document.getElementById("q-wynik").textContent = `Twój wynik to: ${score}/${questions.length}`;
+        document.getElementById("pyt").textContent = "Koniec quizu!";
+        document.getElementById("odp").style.display = "none";
+        document.querySelector("#quiz button").style.display = "none";
+    }
+}
+
 window.onload = function() {
     Zad_1();
     Zad_2();
     Zad_3();
     Zad_4();
-    displayQuestion(); // Display the first question on page load
-};  Zad_1();
-    Zad_2();
-    Zad_3();
-    Zad_4();
+    displayQuestion();
 };
