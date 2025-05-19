@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Prog_Jezyki_Skryptowe/lab_9/static/css/main.603c9ec3.css",
+    "main.js": "/Prog_Jezyki_Skryptowe/lab_9/static/js/main.edfcc90a.js",
+    "static/js/453.ed3810f9.chunk.js": "/Prog_Jezyki_Skryptowe/lab_9/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Prog_Jezyki_Skryptowe/lab_9/index.html",
+    "main.603c9ec3.css.map": "/Prog_Jezyki_Skryptowe/lab_9/static/css/main.603c9ec3.css.map",
+    "main.edfcc90a.js.map": "/Prog_Jezyki_Skryptowe/lab_9/static/js/main.edfcc90a.js.map",
+    "453.ed3810f9.chunk.js.map": "/Prog_Jezyki_Skryptowe/lab_9/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603c9ec3.css",
+    "static/js/main.edfcc90a.js"
+  ]
+}
