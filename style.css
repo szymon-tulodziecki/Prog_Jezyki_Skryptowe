@@ -224,6 +224,54 @@ header button {
     color: #C0456F;
     text-shadow: 0 0 10px rgba(235, 86, 142, 0.8);
 }
+.aktualnosci li:last-child {
+    background: rgba(20, 78, 227, 0.13);
+    border-radius: 14px;
+    box-shadow: 0 2px 8px rgba(20, 78, 227, 0.08);
+    padding: 18px 16px 12px 16px;
+    margin-top: 18px;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-left: 5px solid #EB568E;
+}
+
+.aktualnosci li:last-child span[style*="font-weight: bold"] {
+    color: #144EE3;
+    font-size: 1.07em;
+    margin-bottom: 4px;
+    display: block;
+}
+
+.aktualnosci li:last-child a {
+    font-size: 1.08em;
+    color: #144EE3;
+    font-weight: 600;
+    text-decoration: none;
+    margin-top: 2px;
+    margin-bottom: 6px;
+    transition: color 0.2s, text-shadow 0.2s;
+}
+
+.aktualnosci li:last-child a:hover {
+    color: #EB568E;
+    text-shadow: 0 0 8px rgba(235, 86, 142, 0.16);
+}
+
+.aktualnosci li:last-child .icon {
+    font-size: 22px;
+    margin-right: 7px;
+}
+
+.aktualnosci li:last-child span[style*="font-size: 0.95em"] {
+    color: #888;
+    font-size: 0.95em;
+    margin-top: 2px;
+    line-height: 1.5;
+    display: block;
+}
+
 
 .icon {
     font-size: 24px; 
