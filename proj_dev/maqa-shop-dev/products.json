@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "name": "Mąka ciemna razowa 1",
+    "price": 9.99,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 36,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-ciemna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mąka ciemna razowa 2",
+    "price": 7.69,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 56,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mąka ciemna razowa 3",
+    "price": 9.3,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 68,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Mąka ciemna razowa 4",
+    "price": 11.35,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 31,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-ciemna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Mąka ciemna razowa 5",
+    "price": 9.1,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 75,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Mąka ciemna razowa 6",
+    "price": 13.31,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 15,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Mąka ciemna razowa 7",
+    "price": 12.86,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 85,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mąka ciemna razowa 8",
+    "price": 14.12,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 66,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Mąka ciemna razowa 9",
+    "price": 12.19,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 80,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mąka ciemna razowa 10",
+    "price": 15.2,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 10,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mąka ciemna razowa 11",
+    "price": 14.88,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 97,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Mąka ciemna razowa 12",
+    "price": 16.04,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 18,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Mąka ciemna razowa 13",
+    "price": 12.44,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 79,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Mąka ciemna razowa 14",
+    "price": 14.15,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 82,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mąka ciemna razowa 15",
+    "price": 18.27,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 72,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Mąka ciemna razowa 16",
+    "price": 18.7,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 5,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Mąka ciemna razowa 17",
+    "price": 14.72,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 94,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Mąka ciemna razowa 18",
+    "price": 16.39,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 72,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-ciemna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Mąka ciemna razowa 19",
+    "price": 17.75,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 6,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Mąka ciemna razowa 20",
+    "price": 17.94,
+    "image": "Ciemna_razowa",
+    "description": "Mąka ciemna razowa to doskonały wybór dla osób poszukujących zdrowych i naturalnych składników. Wyprodukowana z pełnego ziarna, posiada wysoką zawartość błonnika oraz minerałów, co pozytywnie wpływa na trawienie i ogólne samopoczucie. Idealna do wypieku chleba, bułek oraz tradycyjnych polskich potraw. Jej intensywny smak i aromat docenią nawet najbardziej wymagający smakosze. Stosowana regularnie, wspomaga prawidłową pracę układu pokarmowego i pomaga utrzymać zdrową sylwetkę.",
+    "stock": 49,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-ciemna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Mąka jasna razowa 1",
+    "price": 8.8,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 32,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Mąka jasna razowa 2",
+    "price": 8.89,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 38,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Mąka jasna razowa 3",
+    "price": 10.93,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 4,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-jasna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Mąka jasna razowa 4",
+    "price": 11.74,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 11,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-jasna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Mąka jasna razowa 5",
+    "price": 11.56,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 75,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-jasna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Mąka jasna razowa 6",
+    "price": 11.95,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 32,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Mąka jasna razowa 7",
+    "price": 10.56,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 41,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-jasna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Mąka jasna razowa 8",
+    "price": 14.11,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 32,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Mąka jasna razowa 9",
+    "price": 12.67,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 70,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Mąka jasna razowa 10",
+    "price": 14.48,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 33,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Mąka jasna razowa 11",
+    "price": 14.42,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 77,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Mąka jasna razowa 12",
+    "price": 17.31,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 99,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Mąka jasna razowa 13",
+    "price": 17.23,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 48,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-jasna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Mąka jasna razowa 14",
+    "price": 18.19,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 40,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-jasna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Mąka jasna razowa 15",
+    "price": 15.49,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 49,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Mąka jasna razowa 16",
+    "price": 17.73,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 56,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-jasna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Mąka jasna razowa 17",
+    "price": 13.62,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 38,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Mąka jasna razowa 18",
+    "price": 16.5,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 13,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Mąka jasna razowa 19",
+    "price": 15.46,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 58,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-jasna-razowa",
+      "promocje"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Mąka jasna razowa 20",
+    "price": 21.93,
+    "image": "Jasna_razowa",
+    "description": "Mąka jasna razowa to kompromis pomiędzy lekkością a wartościami odżywczymi. Cechuje ją delikatniejszy smak i jasny kolor, dzięki czemu sprawdzi się zarówno w pieczywie, jak i ciastach. Zawiera cenne witaminy z grupy B oraz minerały. Polecana dla osób ceniących zdrowe, ale i delikatne wypieki. Jej subtelna struktura doskonale komponuje się z innymi składnikami.",
+    "stock": 76,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-jasna-razowa",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Kasza gryczana 1",
+    "price": 9.36,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 57,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Kasza gryczana 2",
+    "price": 10.92,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 63,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Kasza gryczana 3",
+    "price": 8.93,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 89,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Kasza gryczana 4",
+    "price": 11.25,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 46,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-gryczana",
+      "promocje"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Kasza gryczana 5",
+    "price": 10.62,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 57,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Kasza gryczana 6",
+    "price": 10.86,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 83,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-gryczana",
+      "promocje"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Kasza gryczana 7",
+    "price": 10.05,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 4,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-gryczana",
+      "promocje"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Kasza gryczana 8",
+    "price": 14.5,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 16,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-gryczana",
+      "promocje"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Kasza gryczana 9",
+    "price": 13.0,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 96,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-gryczana",
+      "promocje"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Kasza gryczana 10",
+    "price": 11.92,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 5,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Kasza gryczana 11",
+    "price": 16.42,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 67,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-gryczana",
+      "promocje"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Kasza gryczana 12",
+    "price": 11.81,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 62,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-gryczana",
+      "promocje"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Kasza gryczana 13",
+    "price": 14.06,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 73,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Kasza gryczana 14",
+    "price": 18.44,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 84,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "maka-gryczana",
+      "promocje"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Kasza gryczana 15",
+    "price": 15.67,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 7,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Kasza gryczana 16",
+    "price": 15.9,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 14,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Kasza gryczana 17",
+    "price": 18.49,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 75,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Kasza gryczana 18",
+    "price": 15.2,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 37,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Kasza gryczana 19",
+    "price": 15.84,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 43,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Kasza gryczana 20",
+    "price": 16.61,
+    "image": "Kasza_gryczana",
+    "description": "Kasza i mąka gryczana to naturalne produkty bezglutenowe, bogate w białko i aminokwasy. Szczególnie polecane osobom na diecie bezglutenowej oraz sportowcom. Gryka to źródło rutyny, która wspiera układ krążenia i wzmacnia naczynia krwionośne. Doskonała do naleśników, placków oraz jako dodatek do zup. Naturalny smak i wartości odżywcze zachwycą każdego.",
+    "stock": 87,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "maka-gryczana",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Makaron domowy 1",
+    "price": 9.34,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 77,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Makaron domowy 2",
+    "price": 7.74,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 30,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Makaron domowy 3",
+    "price": 10.36,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 2,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Makaron domowy 4",
+    "price": 11.52,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 83,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Makaron domowy 5",
+    "price": 9.52,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 58,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Makaron domowy 6",
+    "price": 13.41,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 36,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Makaron domowy 7",
+    "price": 11.0,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 18,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "makarony",
+      "promocje"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Makaron domowy 8",
+    "price": 13.66,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 83,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "makarony",
+      "promocje"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Makaron domowy 9",
+    "price": 10.86,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 96,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Makaron domowy 10",
+    "price": 11.96,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 3,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "makarony",
+      "promocje"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Makaron domowy 11",
+    "price": 16.74,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 35,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "makarony",
+      "promocje"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Makaron domowy 12",
+    "price": 16.32,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 52,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "makarony",
+      "promocje"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Makaron domowy 13",
+    "price": 13.82,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 3,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "makarony",
+      "promocje"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Makaron domowy 14",
+    "price": 16.69,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 96,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Makaron domowy 15",
+    "price": 18.73,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 59,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Makaron domowy 16",
+    "price": 17.98,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 61,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Makaron domowy 17",
+    "price": 18.57,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 52,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "makarony",
+      "promocje"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Makaron domowy 18",
+    "price": 14.58,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 79,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Makaron domowy 19",
+    "price": 20.7,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 32,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "makarony",
+      "promocje"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Makaron domowy 20",
+    "price": 18.73,
+    "image": "Makaron",
+    "description": "Makaron domowy to tradycyjny smak dzieciństwa, przygotowywany z najlepszej jakości mąki i jaj. Wyróżnia się elastyczną strukturą i wyjątkowym smakiem, który idealnie współgra z różnorodnymi sosami. Idealny do rosołu, zapiekanek czy sałatek. Gwarancja udanego obiadu dla całej rodziny!",
+    "stock": 1,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "makarony",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Oliwa extra virgin 1",
+    "price": 10.41,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 79,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Oliwa extra virgin 2",
+    "price": 10.58,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 35,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "kurtes",
+      "promocje"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Oliwa extra virgin 3",
+    "price": 9.24,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 4,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Oliwa extra virgin 4",
+    "price": 9.14,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 93,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "kurtes",
+      "promocje"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Oliwa extra virgin 5",
+    "price": 10.73,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 79,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Oliwa extra virgin 6",
+    "price": 12.54,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 90,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "kurtes",
+      "promocje"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Oliwa extra virgin 7",
+    "price": 12.96,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 33,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "kurtes",
+      "promocje"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Oliwa extra virgin 8",
+    "price": 13.37,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 44,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Oliwa extra virgin 9",
+    "price": 12.63,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 7,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Oliwa extra virgin 10",
+    "price": 11.4,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 93,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Oliwa extra virgin 11",
+    "price": 11.47,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 57,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Oliwa extra virgin 12",
+    "price": 12.11,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 98,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "kurtes",
+      "promocje"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Oliwa extra virgin 13",
+    "price": 12.13,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 3,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Oliwa extra virgin 14",
+    "price": 18.55,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 67,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "kurtes",
+      "promocje"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Oliwa extra virgin 15",
+    "price": 17.16,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 52,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Oliwa extra virgin 16",
+    "price": 14.16,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 99,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Oliwa extra virgin 17",
+    "price": 14.61,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 33,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Oliwa extra virgin 18",
+    "price": 16.71,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 4,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "kurtes",
+      "promocje"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Oliwa extra virgin 19",
+    "price": 15.56,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 43,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Oliwa extra virgin 20",
+    "price": 19.03,
+    "image": "Oliwa",
+    "description": "Oliwa extra virgin Kurtes to produkt premium, tłoczony na zimno z wyselekcjonowanych oliwek. Bogata w nienasycone kwasy tłuszczowe, witaminy E i K oraz przeciwutleniacze. Doskonała do sałatek, pieczywa oraz jako dodatek do dań gotowanych i pieczonych. Jej wyrazisty smak i aromat podkreśli charakter każdej potrawy.",
+    "stock": 70,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "kurtes",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Otręby 1",
+    "price": 8.56,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 19,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "otreby",
+      "promocje"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Otręby 2",
+    "price": 10.09,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 50,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Otręby 3",
+    "price": 9.01,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 17,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Otręby 4",
+    "price": 9.77,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 22,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Otręby 5",
+    "price": 12.4,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 73,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Otręby 6",
+    "price": 9.64,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 83,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "otreby",
+      "promocje"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Otręby 7",
+    "price": 13.66,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 10,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "otreby",
+      "promocje"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Otręby 8",
+    "price": 13.05,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 97,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Otręby 9",
+    "price": 12.22,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 91,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "otreby",
+      "promocje"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Otręby 10",
+    "price": 11.53,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 52,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Otręby 11",
+    "price": 16.76,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 62,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Otręby 12",
+    "price": 15.16,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 56,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Otręby 13",
+    "price": 16.2,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 2,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Otręby 14",
+    "price": 18.16,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 65,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Otręby 15",
+    "price": 17.0,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 3,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Otręby 16",
+    "price": 18.4,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 69,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Otręby 17",
+    "price": 18.06,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 91,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Otręby 18",
+    "price": 15.23,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 84,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Otręby 19",
+    "price": 17.46,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 93,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Otręby 20",
+    "price": 20.39,
+    "image": "Otreby",
+    "description": "Otręby to bogactwo błonnika, witamin oraz minerałów. Regularne spożywanie wspiera trawienie i daje uczucie sytości na długo. Doskonale nadają się do jogurtów, musli czy wypieku domowego chleba. Szczególnie polecane osobom dbającym o linię.",
+    "stock": 43,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "otreby",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Ciastka 1",
+    "price": 8.67,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 43,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ciastka-pierniki",
+      "promocje"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Ciastka 2",
+    "price": 9.45,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 88,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Ciastka 3",
+    "price": 9.65,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 21,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ciastka-pierniki",
+      "promocje"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Ciastka 4",
+    "price": 9.09,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 91,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Ciastka 5",
+    "price": 11.29,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 78,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Ciastka 6",
+    "price": 11.25,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 42,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Ciastka 7",
+    "price": 11.7,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 45,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Ciastka 8",
+    "price": 13.65,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 13,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Ciastka 9",
+    "price": 12.43,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 10,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ciastka-pierniki",
+      "promocje"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Ciastka 10",
+    "price": 15.35,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 35,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Ciastka 11",
+    "price": 14.7,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 27,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ciastka-pierniki",
+      "promocje"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Ciastka 12",
+    "price": 13.82,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 57,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Ciastka 13",
+    "price": 16.68,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 49,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Ciastka 14",
+    "price": 14.34,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 79,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "Ciastka 15",
+    "price": 16.53,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 71,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ciastka-pierniki",
+      "promocje"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "Ciastka 16",
+    "price": 16.79,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 36,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Ciastka 17",
+    "price": 18.88,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 0,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ciastka-pierniki",
+      "promocje"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Ciastka 18",
+    "price": 14.23,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 50,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Ciastka 19",
+    "price": 16.36,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 61,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ciastka-pierniki",
+      "promocje"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Ciastka 20",
+    "price": 16.01,
+    "image": "Ciastka",
+    "description": "Ciastka i pierniki to słodka przyjemność dla każdego. Wypiekane z naturalnych składników, bez sztucznych dodatków. Idealne do kawy, herbaty lub jako słodka przekąska w ciągu dnia. Smak dzieciństwa zamknięty w każdym kęsie!",
+    "stock": 82,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "ciastka-pierniki",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Ziarna 1",
+    "price": 7.6,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 30,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Ziarna 2",
+    "price": 8.04,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 24,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Ziarna 3",
+    "price": 9.62,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 87,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Ziarna 4",
+    "price": 10.66,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 87,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Ziarna 5",
+    "price": 12.51,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 0,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ziarna",
+      "promocje"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Ziarna 6",
+    "price": 13.41,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 74,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Ziarna 7",
+    "price": 12.05,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 75,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ziarna",
+      "promocje"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Ziarna 8",
+    "price": 13.45,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 43,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ziarna",
+      "promocje"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Ziarna 9",
+    "price": 12.88,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 96,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Ziarna 10",
+    "price": 13.0,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 54,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Ziarna 11",
+    "price": 11.37,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 22,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Ziarna 12",
+    "price": 14.87,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 32,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Ziarna 13",
+    "price": 12.63,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 13,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ziarna",
+      "promocje"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Ziarna 14",
+    "price": 13.03,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 28,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ziarna",
+      "promocje"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Ziarna 15",
+    "price": 15.07,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 65,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Ziarna 16",
+    "price": 14.3,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 46,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ziarna",
+      "promocje"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Ziarna 17",
+    "price": 15.42,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 78,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ziarna",
+      "promocje"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Ziarna 18",
+    "price": 15.57,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 98,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "ziarna",
+      "promocje"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Ziarna 19",
+    "price": 14.44,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 20,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Ziarna 20",
+    "price": 16.19,
+    "image": "Ziarna",
+    "description": "Ziarna to prawdziwa skarbnica witamin, minerałów i zdrowych tłuszczów. Dodawaj je do sałatek, wypieków lub jedz jako przekąskę. Wspierają odporność i dostarczają energię na cały dzień. Dla aktywnych i tych, którzy cenią naturalne źródła zdrowia.",
+    "stock": 47,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "ziarna",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Trufle 1",
+    "price": 10.54,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 47,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "trufle",
+      "promocje"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Trufle 2",
+    "price": 10.9,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 81,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Trufle 3",
+    "price": 11.96,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 24,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "Trufle 4",
+    "price": 8.96,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 48,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Trufle 5",
+    "price": 12.0,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 25,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Trufle 6",
+    "price": 11.77,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 23,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Trufle 7",
+    "price": 12.61,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 85,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Trufle 8",
+    "price": 10.7,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 31,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Trufle 9",
+    "price": 11.95,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 77,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "trufle",
+      "promocje"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Trufle 10",
+    "price": 13.52,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 45,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Trufle 11",
+    "price": 15.61,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 39,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "nowosci"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Trufle 12",
+    "price": 17.23,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 47,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "trufle",
+      "promocje"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Trufle 13",
+    "price": 15.98,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 15,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "trufle",
+      "promocje"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Trufle 14",
+    "price": 15.3,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 57,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "trufle",
+      "promocje"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Trufle 15",
+    "price": 15.73,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 44,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "trufle",
+      "promocje"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Trufle 16",
+    "price": 18.03,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 55,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Trufle 17",
+    "price": 18.28,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 39,
+    "isNew": false,
+    "isBestseller": false,
+    "isPromo": true,
+    "categories": [
+      "trufle",
+      "promocje"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Trufle 18",
+    "price": 15.36,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 55,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Trufle 19",
+    "price": 19.33,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 7,
+    "isNew": false,
+    "isBestseller": true,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "bestsellery"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Trufle 20",
+    "price": 19.08,
+    "image": "Trufle",
+    "description": "Trufle to ekskluzywne słodycze o intensywnym smaku. Ręcznie robione, z najlepszych składników. Idealne na prezent lub jako wyjątkowa przyjemność na co dzień. Każda trufla to niepowtarzalne doznanie smakowe!",
+    "stock": 38,
+    "isNew": true,
+    "isBestseller": false,
+    "isPromo": false,
+    "categories": [
+      "trufle",
+      "nowosci"
+    ]
+  }
+]

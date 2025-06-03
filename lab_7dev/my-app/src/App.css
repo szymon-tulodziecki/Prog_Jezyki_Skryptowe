@@ -1,0 +1,109 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(135deg, #ffe5ec 0%, #e0f7fa 100%);
+  min-height: 100vh;
+}
+
+.App {
+  min-height: 100vh;
+  font-family: 'Montserrat', 'Segoe UI', Arial, sans-serif;
+  padding: 40px 0;
+  text-align: center;
+  background: transparent;
+}
+
+.card-section {
+  background: #fffbe7;
+  border-radius: 20px;
+  margin: 40px auto;
+  max-width: 540px;
+  padding: 38px 30px 30px 30px;
+  box-shadow: 0 6px 32px 0 rgba(255, 105, 180, 0.10), 0 1.5px 8px 0 rgba(0, 212, 255, 0.10);
+  border: 2.5px solid #a7ffeb;
+  position: relative;
+  transition: box-shadow 0.2s, border-color 0.2s;
+}
+
+.card-section:hover {
+  box-shadow: 0 12px 48px 0 rgba(255, 105, 180, 0.16), 0 3px 16px 0 rgba(0, 212, 255, 0.14);
+  border-color: #ffd6e0;
+}
+
+.card-section h2 {
+  margin-top: 0;
+  margin-bottom: 18px;
+  font-size: 1.4rem;
+  color: #ff69b4;
+  letter-spacing: 0.02em;
+  font-weight: 700;
+}
+
+.custom-separator {
+  border: none;
+  height: 4px;
+  width: 70%;
+  margin: 48px auto;
+  border-radius: 4px;
+  background: linear-gradient(90deg, #a7ffeb 0%, #ffd6e0 50%, #b0e0e6 100%);
+  opacity: 0.85;
+  animation: fadeInSeparator 1.2s;
+}
+
+@keyframes fadeInSeparator {
+  from { opacity: 0; width: 0; }
+  to { opacity: 0.85; width: 70%; }
+}
+
+input, button {
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 11px 16px;
+  border-radius: 8px;
+  border: 1.5px solid #b0e0e6;
+  margin: 9px 0;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+input:focus, button:focus {
+  border-color: #ffb347;
+  box-shadow: 0 0 0 2px #ffe5b4aa;
+}
+
+button {
+  background: linear-gradient(90deg, #ffb347 0%, #ff69b4 100%);
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 12px;
+  transition: background 0.2s, transform 0.1s;
+}
+
+button:hover {
+  background: linear-gradient(90deg, #ff69b4 0%, #ffb347 100%);
+  transform: scale(1.04);
+}
+
+ul {
+  padding-left: 1.3em;
+  text-align: left;
+}
+
+li {
+  margin-bottom: 9px;
+  font-size: 1.08em;
+  color: #5e6472;
+  letter-spacing: 0.01em;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  background: #ffe5ec;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #ffd6e0;
+  border-radius: 8px;
+}

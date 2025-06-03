@@ -1,4 +1,9 @@
-lab_7dev/
-lab_8dev/
-lab_9dev/
-lab_10dev/
+**/node_modules/
+**/dist/
+**/.vite/
+**/.env.local
+**/.env.*
+**/.DS_Store
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
