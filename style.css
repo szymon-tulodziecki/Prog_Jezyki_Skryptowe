@@ -62,6 +62,15 @@ header button {
     margin-bottom: 15px;
 }
 
+.emoji {
+    background: none !important;
+    background-clip: initial !important;
+    -webkit-background-clip: initial !important;
+    -webkit-text-fill-color: initial !important;
+    color: inherit !important;
+    font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", "Noto Sans", Arial, sans-serif !important;
+}
+
 main {
     width: 100%;
     max-width: 1621px;
